@@ -9,9 +9,9 @@ function toggleMode() {
 
   //substituir imagem
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "avatar-light.png")
+    img.setAttribute("src", "manel.foto.png")
   } else {
-    img.setAttribute("src", "avatar.png")
+    img.setAttribute("src", "manel.light.png")
   }
 }
 
